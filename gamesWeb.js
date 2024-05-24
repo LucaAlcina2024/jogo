@@ -1,5 +1,5 @@
 nave = new Image();
-nave.src = "heroi.png";
+nave.src = "Aeronave.jpg";
 nave.onload = function() {
     xNave = canvas.width / 2 - nave.width / 2;
     yNave = canvas.height - nave.height;
